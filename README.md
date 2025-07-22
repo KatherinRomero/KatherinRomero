@@ -27,7 +27,8 @@
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KatherinRomero&show_icons=true&theme=radical)
+![Tus Stats](https://github-readme-stats.vercel.app/api?username=KatherinRomero&show_icons=true&theme=dark)
+
 
 ---
 
