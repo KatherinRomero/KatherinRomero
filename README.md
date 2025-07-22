@@ -27,7 +27,7 @@
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chiky-007&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KatherinRomero&show_icons=true&theme=radical)
 
 ---
 
